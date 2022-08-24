@@ -1,0 +1,65 @@
+
+/*
+.border-dark {
+    border: 5px solid black;
+}
+*/
+.perso_block_edit,
+.bg-light {
+    background-color: rgb(226, 242, 253) !important;
+}
+
+.perso_block_edit:hover,
+.nav-item-selected {
+    background-color: rgb(153, 211, 250) !important;
+}
+
+.nav-item:hover {
+    background-color: rgb(49, 155, 226);
+}
+
+
+.perso_button_add:hover {
+    background-color: rgb(49, 155, 226);
+}
+
+.perso_label {
+    font-size: 0.75rem;
+}
+
+.perso_text {
+    font-size: 0.8rem;
+}
+
+.perso_row {
+    height: 1.6rem;
+}
+
+.border-5 {
+    border-width:5px !important;
+}
+
+.border-2 {
+    border-width:2px !important;
+}
+
+.border-2-top-1 {
+    border-width:0px 2px 2px 2px !important;
+    margin-top: -4px; 
+}
+
+.border-2-top-2 {
+    border-width:2px 0px 0px 0px !important;
+}
+
+.border-2-bottom-2 {
+    border-width:0px 0px 2px 0px !important;
+}
+
+.border-1-top-0 {
+    border-width:0px 0px 1px 0px !important;
+}
+
+.border-1-lr-0 {
+    border-width:1px 0px 1px 0px !important;
+}
